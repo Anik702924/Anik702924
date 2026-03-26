@@ -1,3 +1,4 @@
+![logo](https://github.com/Anik702924/Anik702924/blob/main/White%20and%20Black%20Minimalist%20Virtual%20Assistant%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Anik Pal</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right" alt="coding" widht="400" scr="<img width="680" height="238" alt="image" src="https://github.com/user-attachments/assets/4e09bc17-c48b-485f-94eb-94b6e1206036" />
