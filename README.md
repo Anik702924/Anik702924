@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anik Pal</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
-<img align="right" alt="coding" widht="400" scr="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/4e09bc17-c48b-485f-94eb-94b6e1206036" />
+<img align="right" alt="coding" widht="400" scr="<img width="680" height="238" alt="image" src="https://github.com/user-attachments/assets/4e09bc17-c48b-485f-94eb-94b6e1206036" />
 "/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik702924&label=Profile%20views&color=0e75b6&style=flat" alt="anik702924" /> </p>
